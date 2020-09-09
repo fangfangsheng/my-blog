@@ -5,4 +5,6 @@
 layout: home
 ---
 
-
+<p>
+    I'd be attending vGHC 2020. I would love to connect to a recruiter and know more about open roles.
+</p>
