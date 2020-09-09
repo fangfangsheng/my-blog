@@ -18,14 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fangfang Sheng
+title: Fangfang ("Fiona") Sheng
 email: fangfangsheng46@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog site.
+  GHC'20｜ Seeking Full-time Opportunities ｜ Data Science ｜ Machine Learning ｜ Healthcare
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://fangfangsheng.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: safun19
 github_username:  fangfangsheng
+linkedin_username: fangfangsheng
+
+author: Fangfang Sheng
+
+# New fields not defaulted with the minima theme
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc
+copyright: "Fangfang Sheng"
+
 
 # Build settings
 # Removed minima theme as it is now a regular theme

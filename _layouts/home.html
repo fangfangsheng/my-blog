@@ -3,32 +3,62 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<div class="footer-col-wrapper">
+  <div class="footer-col footer-col-1">
+    <video src="images/profile-dynamic.mp4"  poster="images/profile-static.png" width="150" height="100" autoplay muted></video>
+    <ul class="contact-list">
+    
+        {%- include social.html -%}
+        
+  </div>
 
-  {{ content }}
+  <div >
+    <br>
+    <br>
+    <p>
+      I'm Fangfang Sheng, a graduate student pursuing Master Degree in Bioinformatics at Northeastern University with interests in <b>Machine Learning </b>, <b>Human-Computer Interaction</b> and <b>Health care</b>.
+    </p>
+    <p>
+      Next up, I will be graduating and earning my Master's degree in May 2021!
+    </p>
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+    <p>
+      I'd be attending vGHC 2020. I would love to connect to a recruiter and know more about open roles.
+    </p>
+    
+</div>
 
 </div>
+
+{%- if page.title -%}
+<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+
+<br>
+
+{{ content }}
+
+{%- if site.posts.size > 0 -%}
+<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+<ul class="post-list">
+  {%- for post in site.posts -%}
+  <li>
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <span class="post-meta">{{ post.date | date: date_format }}</span>
+    <h3>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+    {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+    {%- endif -%}
+  </li>
+  {%- endfor -%}
+</ul>
+
+<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+{%- endif -%}
+
+
+
