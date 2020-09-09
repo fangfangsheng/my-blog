@@ -7,4 +7,9 @@ layout: home
 
 <p>
     I'd be attending vGHC 2020. I would love to connect to a recruiter and know more about open roles.
+
+    <br>
+
+    Please feel free to connect with me on <a href="https://www.linkedin.com/in/fangfangsheng/">LinkedIn</a> or <a class="u-email" href="mailto:fangfangsheng46@gmail.com">email me</a>.
+
 </p>
