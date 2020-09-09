@@ -28,7 +28,8 @@ twitter_username: safun19
 github_username:  fangfangsheng
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
