@@ -16,7 +16,6 @@ We needed approach can identify new phenotypes without pre-defined bins. Look ac
 To accomplish this, I developed an end to end machine learning pipeline to increase the efficiency of hypothesis testing and validation during my CoOp at Novartis.
 
 
-<!-- <img src="assets/medias/eeg-streamlit.png" width="400" height="250" /> -->
 
 <div>
     <a target="_blank" href="assets/slides/EEG2020.pdf">Poster</a> 
@@ -48,17 +47,23 @@ questions about the best treatment options for patients with specific characteri
 
 <ins>Full Stack Machine Learning</ins>   **Streaming Twitter Filter in Python**
 
-Build and deploy a streaming pipeline that downloads tweets, filters based on provided keywords and caculates sentiment scores at cloud. 
+Build and deploy a streaming pipeline that downloads tweets, filters based on provided *keywords* and caculates sentiment scores at cloud. 
+
+
+<!-- <img src="assets/medias/eeg-streamlit.png" width="400" height="250" /> -->
 
 
 
+* use Tweepy to interact with Twitter's API
+* use Redis to setup a key-value store at cloud
+* conduct state-of-the-art sentiment analysis
+* display data from Redis via Flask and Jinga2(wen application)
 
 
 <div>
     <!-- <a target="_blank" href="">Slides</a> | -->
     <a target="_blank" href="https://tweets-redis-flask.herokuapp.com/"> Website </a> |  
-    <a target="_blank" href=""> Github
-    </a>  
+    <a target="_blank" href="https://github.com/fangfangsheng/Streaming_Sentiment"> Github</a>  
 </div>
 
 <br>
