@@ -36,7 +36,6 @@ Within 72 hours, we proposed and finished the system Design of a *curated COVID-
 questions about the best treatment options for patients with specific characteristics (e.g., age, sex, pre-existing conditions).
 
 
-
 <div>
     <a target="_blank" href="assets/slides/COVIData.pdf">Slides</a> |
     <a target="_blank" href="https://fangfangsheng.github.io/COVIData/"> Website </a> |  
@@ -45,3 +44,22 @@ questions about the best treatment options for patients with specific characteri
 </div>
 
 <br>
+
+
+<ins>Full Stack Machine Learning</ins>   **Streaming Twitter Filter in Python**
+
+Build and deploy a streaming pipeline that downloads tweets, filters based on provided keywords and caculates sentiment scores at cloud. 
+
+
+
+
+
+<div>
+    <!-- <a target="_blank" href="">Slides</a> | -->
+    <a target="_blank" href="https://tweets-redis-flask.herokuapp.com/"> Website </a> |  
+    <a target="_blank" href=""> Github
+    </a>  
+</div>
+
+<br>
+
