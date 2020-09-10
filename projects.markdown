@@ -4,16 +4,11 @@ title: Projects
 # permalink: /about/
 ---
 
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Project 1
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+## Project 2
+<video src="assets/medias/eeg-streamlit.mp4"  poster="assets/medias/eeg-streamlit.png" width="400" height="250" autoplay muted></video>
+
+<!-- <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /> -->
