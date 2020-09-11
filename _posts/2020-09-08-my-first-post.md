@@ -6,10 +6,12 @@ categories: jekyll update
 ---
 
 
-Welcome to my first post!
+Welcome to my first post! Nice to meet you here.
 
 ## Here are things I will be writing about
 
-1. This
-2. That
-3. The other
+1. A few things I’ve built
+2. A few things I want built
+3. A few things I am building
+
+Without further ado, check my other pages now!
