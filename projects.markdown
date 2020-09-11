@@ -50,14 +50,13 @@ questions about the best treatment options for patients with specific characteri
 Build and deploy a streaming pipeline that downloads tweets, filters based on provided *keywords* and caculates sentiment scores at cloud. 
 
 
-<!-- <img src="assets/medias/eeg-streamlit.png" width="400" height="250" /> -->
-
+<img src="assets/images/streaming-tweets.png" width="600" height="350" />
 
 
 * use Tweepy to interact with Twitter's API
 * use Redis to setup a key-value store at cloud
 * conduct state-of-the-art sentiment analysis
-* display data from Redis via Flask and Jinga2(wen application)
+* display data from Redis via Flask and Jinga2(web application) at Heroku
 
 
 <div>
@@ -67,4 +66,20 @@ Build and deploy a streaming pipeline that downloads tweets, filters based on pr
 </div>
 
 <br>
+
+
+<ins>Full Stack Deep Learning</ins>   **Text recognizer App in Python**
+
+The goal for this project is trainning machine learning models and deploying a text recognizer AI systems in the real world at free cloud platform. More specifically, I'm going to build a web page allow user upload a picture of their handwriting and the AI models will try it best to recognize it and return text.
+
+<!-- <img src="assets/medias/eeg-streamlit.png" width="400" height="250" /> -->
+
+
+<div>
+    <a target="_blank" href=""> Website </a> |  
+    <a target="_blank" href=""> Github</a>  
+</div>
+
+<br>
+
 
