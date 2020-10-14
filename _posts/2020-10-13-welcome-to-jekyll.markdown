@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2020-10-13s 22:04:41 -0400
+date:   2020-10-13 22:04:41 -0400
 categories: jekyll update
 ---
 You’ll find this blog is build on top of [Jekyll](https://jekyllrb.com/).
