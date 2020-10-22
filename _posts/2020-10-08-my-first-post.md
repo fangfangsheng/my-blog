@@ -11,7 +11,7 @@ I finished the [Programming for Everybody (Getting Started with Python)](https:/
 
 This is the moment I really hope everyone are good recorders. For a long time, I have been wanting to write down the problems and solutions I have met along the way, I was always intimidated by the complex contents and long writing.
 
-Folloing several excellent data scientists/computer scientists' blogs, I’ve learned that I can put my daily learning into perspective and just be content at improving a little bit each day. I would like to give a shot and here are things I will be writing about
+Following several excellent data scientists/computer scientists' blogs, I’ve learned that I can put my daily learning into perspective and just be content at improving a little bit each day. I would like to give a shot and here are things I will be writing about
 
 *  A few things I’ve built 
 *  A few bugs I've solved 
