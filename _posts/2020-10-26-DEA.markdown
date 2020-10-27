@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Differential Expression Analysis"
+date:   2020-10-26 12:00:00 -0400
+categories: jekyll update
+---
+
+The act of determining the difference in gene expression between two or more samples is called 'differential expression analysis'. For example, if you treat a human cell culture with a certain drug, what genes are impacted? It is one of the most important tools in a bioinformatician's toolkit. 
+
+> Can I do differential gene expression in Python?
+
+When I started out I also wanted to use Python for everything, but while it is quite possible using rpy2 I quickly found that just learning and using `R` is so much easier. The number of resources is quite impressive and, indeed, no point in making things harder. Therefore, I will recommend to perform differential expression analysis with DESeq2 in R. 
+
+A well documented [tutorial](http://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) for analyzing RNA-seq data with DESeq2. It is a little bit long and took me almost 3 hours to read it for the first time. There are other similar passages avaiable online but I still think it is the best for beignner. I will share some reading notes later.
+
+
+
+
+
+
+
+
