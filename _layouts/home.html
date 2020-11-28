@@ -10,7 +10,7 @@ layout: default
     <ul class="contact-list">
     
         {%- include social.html -%}
-        
+    </ul>
   </div>
 
   <div >
@@ -22,8 +22,7 @@ layout: default
     <p>
       Next up, I will be graduating and earning my Master's degree in April 2021!
     </p>
-    
-</div>
+  </div>
 
 </div>
 
@@ -36,6 +35,8 @@ layout: default
 
 {%- if site.posts.size > 0 -%}
 <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+
+
 <ul class="post-list">
   {%- for post in site.posts -%}
   <li>
@@ -52,9 +53,5 @@ layout: default
   </li>
   {%- endfor -%}
 </ul>
-
 <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 {%- endif -%}
-
-
-
