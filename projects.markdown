@@ -83,3 +83,19 @@ The goal for this project is trainning machine learning models and deploying a t
 <br>
 
 
+<ins>Full Stack MERN Project</ins>   **Learning Tracking App in ongoDB, Node.js, Express, React, Redux**
+
+Milestone porject for 'The Complete 2020 Web Development Bootcamp' at Udemy where I learnt how to build a Full Stack MERN Project - from start to finish. <br>
+The App is called "Learner Booth" and it is a simple MERN application that allows users to keep track of their learning process and review what they've learned regularly.
+Utilized MongoDB backend database for data persistence, deployed with Heroku(API) and netlify(Front End). 
+
+<img src="assets/images/LearnerBooth.png" width="400" height="250" />
+
+<div>
+    <a target="_blank" href="https://leanerbooth.netlify.app/"> Website </a> |  
+    <a target="_blank" href=""> Github</a>
+</div>
+
+<br>
+
+

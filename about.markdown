@@ -21,19 +21,31 @@ As an engineer, I am passionate about using state-of-art technologies to tackle 
 
 <!-- <p><a href="publication.html">See all publications</a></p> -->
 
+<ins>SfN 2021</ins>   **Development of an automated high-throughput machine learning pipeline for phenotypic classification based on rodent quantitative electroencephalography**
+
+**F. SHENG**, D. J. GRAZIANO, E. J. MA, M. XIAO, H. HOEFLING, and M. M. SIDOR
+
+<div>
+    <a target="_blank" href="assets/papers/SFN21_EEG">PDF</a> 
+    <!-- <a target="_blank" href="https://vimeo.com/363452044">
+        <i class="fab fa-youtube"></i> 25s Video 
+    </a> | -->
+</div>
+
+<br>
+
 <ins>VIS 2020</ins>   **Sequence Braiding: Visual Overviews of Temporal Event Sequences and Attributes**
 
 Sara Di Bartolomeo, Yixuan Zhang, **Fangfang Sheng**, and Cody Dunne
 
 <div>
     <a target="_blank" href="assets/papers/VIS20_SB.pdf">PDF</a> |
-    <!-- <a target="_blank" href="https://youtu.be/kKEn_6j1950">
+    <a target="_blank" href="https://www.youtube.com/watch?v=dPBnoCoGdq4">
         <i class="fab fa-youtube"></i> 30s Video 
     </a> | 
-    <a target="_blank" href="assets/slides/CHI20_crisisinformatics.pdf">
+    <!-- <a target="_blank" href="assets/slides/CHI20_crisisinformatics.pdf">
         <i class="far fa-file-powerpoint"></i> Slides
-    </a> |
-    <a target="_blank" href="publications/CHI20_crisisinformatics.bib">BIBTEX</a> -->
+    </a>  -->
 </div>
 
 <br>
@@ -52,7 +64,8 @@ Yixuan Zhang, Sara Di Bartolomeo, **Fangfang Sheng**, Holly Jimison, and Cody Du
     </a>  
 </div>
 
-<br>
+
+
 
 
 ## Active Projects
